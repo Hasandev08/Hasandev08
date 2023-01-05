@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Ahmed</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan.I am enrolled in a Computer Science Bachelor's degree with the experience of working across the full-stack of web applications. Capable of working with a variety of technology and software solutions, and managing databases. I have worked on different frontend application projects and also working on backend projects. Looking for a role where I can grow and continue to learn from other experienced team members.</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan. I am enrolled in a Computer Science Bachelor's degree with the experience of working across the full-stack of web applications. Capable of working with a variety of technology and software solutions, and managing databases. I have worked on different frontend application projects and also working on backend projects. Looking for a role where I can grow and continue to learn from other experienced team members.</h3>
 <img width="400" align="right" alt="Github" src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif" />
 
 <br>
