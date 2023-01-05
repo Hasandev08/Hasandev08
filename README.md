@@ -2,12 +2,6 @@
 <h3 align="center">A passionate full-stack developer from Pakistan.I am enrolled in a Computer Science Bachelor's degree with the experience of working across the full-stack of web applications. Capable of working with a variety of technology and software solutions, and managing databases. I have worked on different frontend application projects and also working on backend projects. Looking for a role where I can grow and continue to learn from other experienced team members.</h3>
 <img width="400" align="right" alt="Github" src="https://media.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasandev08&label=Profile%20views&color=0e75b6&style=flat" alt="hasandev08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasandev08" alt="hasandev08" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hasstar008" target="blank"><img src="https://img.shields.io/twitter/follow/hasstar008?logo=twitter&style=for-the-badge" alt="hasstar008" /></a> </p>
-
 - 💬 Ask me about **ReactJs, React Native, NodeJs, ExpressJs**
 
 - 📫 How to reach me **hasanahmed0089@gmail.com**
