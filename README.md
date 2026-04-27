@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Hasan Ahmed</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+# 👋 Hi there! I'm a Full-Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasandev08&label=Profile%20views&color=0e75b6&style=flat" alt="hasandev08" /> </p>
+Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with **4+ years of hands-on experience** building scalable, high-performance web applications using the **MERN stack** and beyond.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasandev08" alt="hasandev08" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/hasstar008" target="blank"><img src="https://img.shields.io/twitter/follow/hasstar008?logo=twitter&style=for-the-badge" alt="hasstar008" /></a> </p>
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning **AI agents development**.
+- 👯 I’m looking to collaborate on **automation apps**.
+- 🤔 I’m looking for help **refining architecture for AI-integrated systems**.
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I write better code with lo-fi music playing in the background 🎧
 
-- 💬 Ask me about **ReactJs, React Native, NodeJs, ExpressJs**
+---
 
-- 📫 How to reach me **hasanahmed0089@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🧰 Languages & Tools
+**🖥️ Frontend**
 <p align="left">
-<a href="https://twitter.com/hasstar008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasstar008" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasandeveloper123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasandeveloper123" height="30" width="40" /></a>
-<a href="https://instagram.com/hasanahmed1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanahmed1708" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,svelte,vite,redux,tailwind,html,css" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**🧪 Backend & Server**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,nestjs,nginx,flask,django" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasandev08&show_icons=true&locale=en&layout=compact" alt="hasandev08" /></p>
+**🗃️ Databases**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql,postgresql,firebase,redis" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasandev08&show_icons=true&locale=en" alt="hasandev08" /></p>
+**☁️ Cloud Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasandev08&" alt="hasandev08" /></p>
+**⚙️ DevOps & 🧪 Testing Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,webpack,postman,bash,jest,selenium" />
+  </a>
+</p>
+
+---
+
+## ✅ My Mission
+
+> Deliver **exceptional results** that go **above and beyond expectations**.  
+> Code that’s **clean**, **scalable**, and **maintainable**.  
+> A collaboration that’s **transparent**, **responsive**, and **on time**.
+
+---
+
+## 💼 What You’ll Get
+
+- 🎯 Great quality work
+- 🎯 Always meet the deadline
+- 🎯 Instant and clear communication
+- 🎯 A developer you can rely on
+
+## 🚫 What You Won’t Get
+
+- ❌ Poor or messy code
+- ❌ Missed deadlines
+- ❌ Unresponsiveness or lack of communication
+
+---
+
+## 📫 Let’s Connect
+
+If you're looking for a **trustworthy full-stack developer** who delivers real results — let's chat!...
+- 🌐 Portfolio: 
+
+Thanks for stopping by! ⭐ Feel free to check out my repositories and give them a star if you find them helpful.
+
+---
