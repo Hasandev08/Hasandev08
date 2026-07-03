@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm a Full-Stack Developer
 
-Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with **4+ years of hands-on experience** building scalable, high-performance web applications using the **MERN stack** and beyond.
+Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with **5+ years of hands-on experience** building scalable, high-performance web applications using the **MERN stack** and beyond.
 
 ---
 
