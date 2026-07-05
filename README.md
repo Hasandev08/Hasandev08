@@ -5,11 +5,10 @@ Welcome to my GitHub! I'm a passionate and experienced Full-Stack Developer with
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **AI agents development**.
-- 👯 I’m looking to collaborate on **automation apps**.
-- 🤔 I’m looking for help **refining architecture for AI-integrated systems**.
+- 🤖 I build **AI agents and automation apps**.
+- 👯 I'm looking to collaborate on **automation apps and AI-powered tools**.
+- 💡 Ask me about **architecture for AI-integrated systems**.
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I write better code with lo-fi music playing in the background 🎧
 
 ---
 
